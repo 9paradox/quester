@@ -1,12 +1,12 @@
 {
-  "name": "electron-react-boilerplate",
-  "version": "4.6.0",
-  "description": "A foundation for scalable desktop apps",
+  "name": "quester",
+  "version": "0.0.1",
+  "description": "A testing tool",
   "license": "MIT",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "name": "Akshay Gaonkar (9paradox)",
+    "email": "hi.9paradox@gmail.com",
+    "url": "https://9paradox.com/"
   },
   "main": "./dist/main/main.js",
   "scripts": {
